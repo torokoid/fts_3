@@ -56,7 +56,13 @@ body::before {
 <p><a href="https://torokoid.github.io/fts_home">Home</a>><a href="https://torokoid.github.io/fts">同窓会</a>><a href="https://torokoid.github.io/fts_2">Teams同窓会</a>>Teams同窓会_2</p>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2021年8月6日(金)安否確認会の記録＠Teams !!!</marquee></span></h1>
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkiFWWNaSvo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AB3waD-Da9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J9lmYktr3C8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LvZOlk5iJ0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y2LfTFNDTOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tUQdkzhlcng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
 <a href="20210806_001.JPG" data-lightbox="abc"><img src="20210806_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210806_002.JPG" data-lightbox="abc"><img src="20210806_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210806_003.JPG" data-lightbox="abc"><img src="20210806_003.JPG" alt="サンプル画像" width="900" /></a>
@@ -65,7 +71,9 @@ body::before {
 <a href="20210806_006.JPG" data-lightbox="abc"><img src="20210806_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210806_007.JPG" data-lightbox="abc"><img src="20210806_007.JPG" alt="サンプル画像" width="900" /></a>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2gzJLLf6h_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5Izc_paZ_28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
