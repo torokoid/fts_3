@@ -60,6 +60,7 @@ body::before {
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gkiFWWNaSvo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <a href="20210806_001.JPG" data-lightbox="abc"><img src="20210806_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210806_002.JPG" data-lightbox="abc"><img src="20210806_002.JPG" alt="サンプル画像" width="900" /></a>
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AB3waD-Da9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J9lmYktr3C8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -67,14 +68,12 @@ body::before {
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y2LfTFNDTOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tUQdkzhlcng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
-
-<a href="20210806_002.JPG" data-lightbox="abc"><img src="20210806_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210806_003.JPG" data-lightbox="abc"><img src="20210806_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210806_004.JPG" data-lightbox="abc"><img src="20210806_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210806_005.JPG" data-lightbox="abc"><img src="20210806_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210806_006.JPG" data-lightbox="abc"><img src="20210806_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210806_007.JPG" data-lightbox="abc"><img src="20210806_007.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">訃報連絡</span></h3>
+<h3><span class="white">訃報連絡、岡さん、之さん</span></h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2gzJLLf6h_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <h3><span class="white">最後に皆で黙祷</span></h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5Izc_paZ_28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
