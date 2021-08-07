@@ -69,6 +69,7 @@ body::before {
 
 <a href="20210806_002.JPG" data-lightbox="abc"><img src="20210806_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210806_003.JPG" data-lightbox="abc"><img src="20210806_003.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">秋月さん、庭石報告・・・通信トラブルにつき別途・・・</span></h3>
 <a href="20210806_004.JPG" data-lightbox="abc"><img src="20210806_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210806_005.JPG" data-lightbox="abc"><img src="20210806_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210806_006.JPG" data-lightbox="abc"><img src="20210806_006.JPG" alt="サンプル画像" width="900" /></a>
