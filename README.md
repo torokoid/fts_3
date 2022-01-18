@@ -56,6 +56,8 @@ body::before {
 <p><a href="https://torokoid.github.io/fts_home">Home</a>><a href="https://torokoid.github.io/fts">同窓会</a>><a href="https://torokoid.github.io/fts_2">Teams同窓会</a>>Teams同窓会_2</p>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2021年8月6日(金)安否確認会の記録＠Teams !!!</marquee></span></h1>
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	
 <h3><span class="white">開始早々、ブレイクアウトルームに迷い込んだところ</span></h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gkiFWWNaSvo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AB3waD-Da9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
